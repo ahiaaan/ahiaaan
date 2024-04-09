@@ -1,7 +1,7 @@
 ### Hi there 👋
-
-<!--
-**ahiaaan/ahiaaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Name - Ahian Kabir Abid
+I am currently studying control, electronics and information engineering in the Silesian University of Technology .
+You can reach me at ahiankabir@icloud.com
 
 Here are some ideas to get you started:
 
